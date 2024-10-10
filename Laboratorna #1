@@ -1,1 +1,13 @@
+a=15;
+b=20;
+c=35;
+d=(a<b);
+fl=10.8;
+strin="test"
 
+print a
+print b
+print c
+print d
+print fl
+print strin
