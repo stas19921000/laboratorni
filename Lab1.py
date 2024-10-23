@@ -86,9 +86,9 @@ def sum(a, b):
     return a + b
 print(sum(a, b))
     #6.2 створюємо функцію, що приймає рядок і повертає його у зворотному порядку
-def zvorot(text):
+def revers(text):
     return text[::-1] # читаємо текст у зворотному порядку
-print(zvorot(text))
+print(revers(text))
 
 #7 Списки і цикли
     #7.1 створюємо списки із 5 чисел
